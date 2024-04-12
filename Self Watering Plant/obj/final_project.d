@@ -1,0 +1,15 @@
+.\obj\final_project.o: Final_Project.c
+.\obj\final_project.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\final_project.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\final_project.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\final_project.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\final_project.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\final_project.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\final_project.o: ..\..\..\Include\System\SysInfra.h
+.\obj\final_project.o: ..\..\..\Include\System\ModuleID.h
+.\obj\final_project.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\final_project.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\final_project.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\final_project.o: ..\..\..\Include\Driver\DrvADC.h
+.\obj\final_project.o: Driver_PWM_Servo.h
+.\obj\final_project.o: ..\..\..\Include\Driver\DrvUART.h

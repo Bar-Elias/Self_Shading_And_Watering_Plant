@@ -1,0 +1,15 @@
+.\obj\ldr.o: LDR.c
+.\obj\ldr.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\ldr.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\ldr.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\ldr.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\ldr.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\ldr.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\ldr.o: ..\..\..\Include\System\SysInfra.h
+.\obj\ldr.o: ..\..\..\Include\System\ModuleID.h
+.\obj\ldr.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\ldr.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\ldr.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\ldr.o: ..\..\..\Include\Driver\DrvADC.h
+.\obj\ldr.o: Driver_PWM_Servo.h
+.\obj\ldr.o: ..\..\..\Include\Driver\DrvUART.h
